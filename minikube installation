@@ -1,3 +1,7 @@
 # here is a link to install minikube on macOS
 
 https://medium.com/@javatechie/kubernetes-tutorial-install-run-minikube-in-mac-os-k8s-cluster-369b25b0c3f0
+
+#install argocd, its an operator for kubernete
+
+https://operatorhub.io/operator/argocd-operator
